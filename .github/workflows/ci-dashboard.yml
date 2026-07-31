@@ -5,7 +5,7 @@ on:
     branches: [main, develop, "release/V*", "feature/**"]
     paths:
       - 'dashboard/**'
-      - '.github/workflows/ci-dashboard.yaml'
+      - '.github/workflows/ci-dashboard.yml'
   pull_request:
     branches: [main, develop]
 
