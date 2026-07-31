@@ -1,0 +1,10 @@
+# Directories:
+**/.vscode/*
+**/build/*
+**/dist/*
+**/deps/*
+**/venv/*
+**/__pycache__/*
+
+# Files:
+**/*.pyc
