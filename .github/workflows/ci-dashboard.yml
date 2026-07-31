@@ -1,0 +1,9 @@
+name: Dashboard CI (C++, GTest, Clang-Tidy, GCov, Qt6/QML)
+
+on:
+  push:
+    branches: [main, develop, "release/V*", "feature/**"]
+    paths:
+      - 'dashboard/**'
+      - '.github/workflows/ci-dashboard.yaml'
+      
