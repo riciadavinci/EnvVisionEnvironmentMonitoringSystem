@@ -1,4 +1,4 @@
-name: Dashboard CI (C++, GTest, Clang-Tidy, GCov, Qt6/QML)
+name: Dashboard CI
 
 on:
   push:
