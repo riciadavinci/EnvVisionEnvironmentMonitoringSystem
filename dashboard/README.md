@@ -1,7 +1,7 @@
 <!-- Main Header -->
 <a id="heading"></a>
 
-# EnvDash - Dashboard for EnvVision Environment Monitoring System
+# _EnvDash_ - Dashboard for _EnvVision_ Environment Monitoring System
 
 <!-- Badges & Shields -->
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
@@ -15,13 +15,15 @@
 <!-- Elevator Pitch -->
 <a id="elevator-pitch"></a>
 
-## Elevator Pitch
+## 1. Elevator Pitch
+
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- Visual Preview / Gallery (Screenshots/GIFs placeholder) -->
 <a id="gallery"></a>
 
-## Gallery
+## 2. Gallery
 
 <!-- Dashboard Rough Sketch -->
 <figure>
@@ -48,7 +50,9 @@
 |  | 4.3 &emsp;[Sub-Section 3](#) |
 | **5.** | [Tech Stack & Module Matrix](#tech-stack-and-module-matrix) |
 | **6.** | [Build & Development Setup](#build-and-development-setup) |
-| **7.** | [Scope, Roadmap & Progress](#scope-roadmap-and-progress) |
+| **7.** | [Project Scope & Roadmap](#project-scope-and-roadmap) |
+|  | 7.1 &emsp;[Project Scope](#project-scope) |
+|  | 7.2 &emsp;[Project Roadmap](#project-roadmap) |
 | **8.** | [Testing & Static Analysis](#testing-and-static-analysis) |
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
@@ -57,7 +61,7 @@
 <!-- Key Technical Features (What makes this hard/interesting?) -->
 <a id="key-technical-features"></a>
 
-## Key Technical Features
+## 3. Key Technical Features
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
@@ -65,7 +69,7 @@
 <!-- System Architecture & Design Patterns (The technical proof) -->
 <a id="system-architecture-and-design-patterns"></a>
 
-## System Architecture & Design Patterns
+## 4. System Architecture & Design Patterns
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
@@ -73,7 +77,7 @@
 <!-- Tech Stack & Module Matrix -->
 <a id="tech-stack-and-module-matrix"></a>
 
-## Tech Stack & Module Matrix
+## 5. Tech Stack & Module Matrix
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
@@ -81,15 +85,45 @@
 <!-- Build & Development Setup (Windows MSVC/MinGW & Linux setup) -->
 <a id="build-and-development-setup"></a>
 
-## Build & Development Setup
+## 6. Build & Development Setup
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- V1.0.0 Scope, Roadmap & Progress (Checklist showing project management skill) -->
-<a id="scope-roadmap-and-progress"></a>
+<a id="project-scope-and-roadmap"></a>
 
-## Scope, Roadmap & Progress
+## 7. Project Scope & Roadmap
+
+
+<a id="project-scope"></a>
+
+### 7.1 Project Scope (Component: Dashboard EnvDash)
+* 
+
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
+
+
+<a id="project-roadmap"></a>
+
+### 7.2 Project Roadmap (Component: Dashboard _EnvDash_)
+- [ ] **Feature:** Setup Project Skeleton & define scope and features
+    - [x] **Task:** Setup minimal CI/CD script with test job &emsp;<small>[&nbsp; **Completed:** 31.07.2026 &nbsp;|&nbsp; **Author:** [@riciadavinci](https://github.com/riciadavinci) &nbsp;]</small>
+    - [ ] **Task:** Define project scope
+    - [ ] **Task:** Define project features and tasks loosely
+    - [ ] **Task:** Create main.qml and use it with main.cpp
+    - [ ] **Task:** Setup CMakeLists.txt to compile for main.cpp
+    - [ ] **Task:** Create simple GUI App that builds successfully
+- [ ] **Feature:** Setup Full CI/CD Pipeline
+    - [ ] **Task:** Setup working CMake Build Task
+    - [ ] **Task:** 
+- [ ] **Feature:**
+    - [ ] **Task:** 
+
+<!-- - [ ] **Feature:** Setup Full CI/CD Pipeline &emsp;[&nbsp; **Completed:** 11.06.2026 &nbsp;|&nbsp; **Merge/PR:** [a3f1f66](https://github.com/riciadavinci/EnvVisionEnvironmentMonitoringSystem/commit/a3f1f66b9da4bb4b6993f7b7090cecea019e56a8) &nbsp;]
+    - [x] **Task:** Setup minimal skeleton with Sample Job &emsp;[&nbsp; **Completed:** 01.08.2026 &nbsp;|&nbsp; **Author:** [@riciadavinci](https://github.com/riciadavinci) &nbsp;]
+	- [ ] **Task:** Setup Clang-Tidy Static Analysis Job
+- [ ] **Feature:** Setup CMakeLists.txt and Source Files Skeleton -->
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
@@ -97,7 +131,7 @@
 <!-- Testing & Static Analysis -->
 <a id="testing-and-static-analysis"></a>
 
-## Testing & Static Analysis
+## 8. Testing & Static Analysis
 
 
 
