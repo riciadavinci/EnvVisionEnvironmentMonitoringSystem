@@ -30,11 +30,11 @@
     <figcaption>Dashboard Rough Sketch</figcaption>
 </figure>
 
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
+
 
 <!-- Table of Contents -->
 <a id="table-of-contents"></a>
-<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
-
 
 ## Table of Contents
 | # | Section |
@@ -51,49 +51,54 @@
 | 7. | [Scope, Roadmap & Progress](#scope-roadmap-and-progress) |
 | 8. | [Testing & Static Analysis](#testing-and-static-analysis) |
 
-
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- Key Technical Features (What makes this hard/interesting?) -->
 <a id="key-technical-features"></a>
-<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 ## Key Technical Features
+
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- System Architecture & Design Patterns (The technical proof) -->
 <a id="system-architecture-and-design-patterns"></a>
-<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 ## System Architecture & Design Patterns
+
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- Tech Stack & Module Matrix -->
 <a id="tech-stack-and-module-matrix"></a>
-<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 ## Tech Stack & Module Matrix
+
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- Build & Development Setup (Windows MSVC/MinGW & Linux setup) -->
 <a id="build-and-development-setup"></a>
-<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 ## Build & Development Setup
+
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- V1.0.0 Scope, Roadmap & Progress (Checklist showing project management skill) -->
 <a id="scope-roadmap-and-progress"></a>
-<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 ## Scope, Roadmap & Progress
 
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 
 <!-- Testing & Static Analysis -->
 <a id="testing-and-static-analysis"></a>
-<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
 ## Testing & Static Analysis
 
 
+
+<p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
