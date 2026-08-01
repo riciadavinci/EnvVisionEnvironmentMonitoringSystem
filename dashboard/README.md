@@ -98,8 +98,25 @@
 
 <a id="project-scope"></a>
 
-### 7.1 Project Scope (Component: Dashboard EnvDash)
-* 
+### 7.1 Project Scope (Component: Dashboard - _EnvDash_)
+
+The primary objective of **_EnvDash_** is to provide a real-time desktop interface for visualizing environmental sensor telemetry originating from hardware nodes (Pico 2 firmware) or simulated environments/mock hardware (Python).
+
+#### In-Scope (v1.0 Deliverables)
+* **Real-Time Telemetry Visualization:** Live rendering of temperature, humidity, and atmospheric metrics using Qt Quick / QML widgets and dynamic charts.
+* **Multi-Transport Support:** Data ingestion over Serial (UART/USB) for physical hardware connections and IPC/Local Sockets for communication with the Python mock hardware simulator.
+* **Hardware Status Monitoring:** UI indicators for connection state, packet loss, transmission frequency, and system threshold alerts.
+* **Configurable Dashboard Settings:** Controls enabling users to adjust sample rates, threshold triggers, and chart timeframes dynamically.
+* **Cross-Platform Target:** Build targets verified on both Windows (MSVC/MinGW) and Linux (GCC) environments.
+
+<br>
+
+#### Out-of-Scope (v1.0 Non-Goals)
+* **Cloud Storage & Remote Sync:** No direct backend cloud integration (AWS/Azure) or remote database persistence for v1.0; logging is handled locally.
+* **Mobile / Web Platforms:** Exclusive focus on desktop environments (no iOS, Android, or WebAssembly targets).
+* **User Authentication:** Single-user local desktop application without user login or permission roles.
+* **Direct Firmware Flashing:** The application consumes telemetry streams only and does not perform OTA or direct firmware flashing to the microcontroller.
+
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
@@ -107,16 +124,19 @@
 <a id="project-roadmap"></a>
 
 ### 7.2 Project Roadmap (Component: Dashboard _EnvDash_)
-- [ ] **Feature:** Setup Project Skeleton & define scope and features
-    - [x] **Task:** Setup minimal CI/CD script with test job &emsp;<small>[&nbsp; **Completed:** 31.07.2026 &nbsp;|&nbsp; **Author:** [@riciadavinci](https://github.com/riciadavinci) &nbsp;]</small>
-    - [ ] **Task:** Define project scope
-    - [ ] **Task:** Define project features and tasks loosely
+- [ ] **Feature:** Setup Project Skeleton. Define project scope, features & tasks
+    - [x] ✔️ **Task:** Setup minimal CI/CD script with test job &emsp;<small>[&nbsp; **Completed:** 31.07.2026 &nbsp;|&nbsp; **Author:** [@riciadavinci](https://github.com/riciadavinci) &nbsp;]</small>
+    - [x] ✔️ **Task:** Define project scope &emsp;<small>[&nbsp; **Completed:** 01.08.2026 &nbsp;|&nbsp; **Author:** [@riciadavinci](https://github.com/riciadavinci) &nbsp;]</small>
+    - [x] ✔️ **Task:** Define project features and tasks loosely &emsp;<small>[&nbsp; **Completed:** 01.08.2026 &nbsp;|&nbsp; **Author:** [@riciadavinci](https://github.com/riciadavinci) &nbsp;]</small>
     - [ ] **Task:** Create main.qml and use it with main.cpp
     - [ ] **Task:** Setup CMakeLists.txt to compile for main.cpp
     - [ ] **Task:** Create simple GUI App that builds successfully
 - [ ] **Feature:** Setup Full CI/CD Pipeline
     - [ ] **Task:** Setup working CMake Build Task
-    - [ ] **Task:** 
+    - [ ] **Task:** Setup working Clang-Tidy Analysis
+    - [ ] **Task:** Setup Google Test
+    - [ ] **Task:** Setup Unit-Tests execution
+    - [ ] **Task:** Setup GCov/LCov Coverage Report Generation
 - [ ] **Feature:**
     - [ ] **Task:** 
 
