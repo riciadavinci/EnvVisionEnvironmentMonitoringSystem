@@ -39,17 +39,17 @@
 ## Table of Contents
 | # | Section |
 |---|---|
-| 1. | [Elevator Pitch](#elevator-pitch) |
-| 2. | [Gallery](#gallery) |
-| 3. | [Key Technical Features](#key-technical-features) |
-| 4. | [System Architecture & Design Patterns](#system-architecture-and-design-patterns) |
+| **1.** | [Elevator Pitch](#elevator-pitch) |
+| **2.** | [Gallery](#gallery) |
+| **3.** | [Key Technical Features](#key-technical-features) |
+| **4.** | [System Architecture & Design Patterns](#system-architecture-and-design-patterns) |
 |  | 4.1 &emsp;[Sub-Section 1](#) |
 |  | 4.2 &emsp;[Sub-Section 2](#) |
 |  | 4.3 &emsp;[Sub-Section 3](#) |
-| 5. | [Tech Stack & Module Matrix](#tech-stack-and-module-matrix) |
-| 6. | [Build & Development Setup](#build-and-development-setup) |
-| 7. | [Scope, Roadmap & Progress](#scope-roadmap-and-progress) |
-| 8. | [Testing & Static Analysis](#testing-and-static-analysis) |
+| **5.** | [Tech Stack & Module Matrix](#tech-stack-and-module-matrix) |
+| **6.** | [Build & Development Setup](#build-and-development-setup) |
+| **7.** | [Scope, Roadmap & Progress](#scope-roadmap-and-progress) |
+| **8.** | [Testing & Static Analysis](#testing-and-static-analysis) |
 
 <p align="right"><sub>[&nbsp;<a href="#heading">Back to Top</a> &nbsp;•&nbsp; <a href="#table-of-contents">Table of Contents</a>&nbsp;]</sub></p>
 
